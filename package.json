@@ -1,5 +1,5 @@
 {
-  "name": "@github/markdownlint-github",
+  "name": "@github/markdownlint-gith"
   "version": "0.2.0",
   "description": "An opinionated collection of markdownlint rules used by GitHub.",
   "type": "module",
